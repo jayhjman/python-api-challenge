@@ -18,18 +18,53 @@
 
 ## Results
 
-- ![Scatter Max Temp](WeatherPy/images/scatter_max_temp.png)
-- ![Scatter Humidity](WeatherPy/images/scatter_humidity.png)
-- ![Scatter Cloudiness](WeatherPy/images/scatter_cloudiness.png)
-- ![Scatter Wind Speed](WeatherPy/images/scatter_wind_speed.png)
-- ![Scatter Northern Hemisphere Max Temp](WeatherPy/images/scatter_nh_max_temp.png)
-- ![Scatter Southern Hemisphere Max Temp](WeatherPy/images/scatter_sh_max_temp.png)
-- ![Scatter Northern Hemisphere Humidity](WeatherPy/images/scatter_nh_humidity.png)
-- ![Scatter Southern Hemisphere Humidity](WeatherPy/images/scatter_sh_humidity.png)
-- ![Scatter Northern Hemisphere Cloudiness](WeatherPy/images/scatter_nh_cloudiness.png)
-- ![Scatter Southern HemisphereCloudiness](WeatherPy/images/scatter_sh_cloudiness.png)
-- ![Scatter Northern Hemisphere Wind Speed](WeatherPy/images/scatter_nh_wind_speed.png)
-- ![Scatter Southern Hemisphere Wind Speed](WeatherPy/images/scatter_sh_wind_speed.png)
+- X
+
+  ![Scatter Max Temp](WeatherPy/images/scatter_max_temp.png)
+
+- X
+
+  ![Scatter Humidity](WeatherPy/images/scatter_humidity.png)
+
+- X
+
+  ![Scatter Cloudiness](WeatherPy/images/scatter_cloudiness.png)
+
+- X
+
+  ![Scatter Wind Speed](WeatherPy/images/scatter_wind_speed.png)
+
+- X
+
+  ![Scatter Northern Hemisphere Max Temp](WeatherPy/images/scatter_nh_max_temp.png)
+
+- X
+
+  ![Scatter Southern Hemisphere Max Temp](WeatherPy/images/scatter_sh_max_temp.png)
+
+- X
+
+  ![Scatter Northern Hemisphere Humidity](WeatherPy/images/scatter_nh_humidity.png)
+
+- X
+
+  ![Scatter Southern Hemisphere Humidity](WeatherPy/images/scatter_sh_humidity.png)
+
+- Northern Hemisphere City Couldiness with Linear Regression
+
+  ![Scatter Northern Hemisphere Cloudiness](WeatherPy/images/scatter_nh_cloudiness.png)
+
+- Southern Hemisphere City Cloudiness with Linear Regression
+
+  ![Scatter Southern Hemisphere Cloudiness](WeatherPy/images/scatter_sh_cloudiness.png)
+
+- Northern Hemisphere City Wind Speed with Linear Regression
+
+  ![Scatter Northern Hemisphere Wind Speed](WeatherPy/images/scatter_nh_wind_speed.png)
+
+- Southern Hemisphere City Wind Speed with Linear Regression
+
+  ![Scatter Southern Hemisphere Wind Speed](WeatherPy/images/scatter_sh_wind_speed.png)
 
 - World City Humidity Heatmap with Hotel Marks for VacationPy
 
