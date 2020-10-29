@@ -30,8 +30,14 @@
 - ![Scatter Southern HemisphereCloudiness](WeatherPy/images/scatter_sh_cloudiness.png)
 - ![Scatter Northern Hemisphere Wind Speed](WeatherPy/images/scatter_nh_wind_speed.png)
 - ![Scatter Southern Hemisphere Wind Speed](WeatherPy/images/scatter_sh_wind_speed.png)
-- ![Humidity Heatmap](VacationPy/images/heatmap_world_humidity.png)
-- ![Humidity Heatmap with Hotels](VacationPy/images/heatmap_world_humidity_marker.png)
+
+- World City Humidity Heatmap with Hotel Marks for VacationPy
+
+  ![Humidity Heatmap](VacationPy/images/heatmap_world_humidity.png)
+
+- World City Humidity Heatmap with Hotel Marks for VacationPy
+
+  ![Humidity Heatmap with Hotels](VacationPy/images/heatmap_world_humidity_marker.png)
 
 ## Analysis
 
