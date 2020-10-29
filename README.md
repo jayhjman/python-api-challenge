@@ -22,6 +22,16 @@
 - ![Scatter Humidity](WeatherPy/images/scatter_humidity.png)
 - ![Scatter Cloudiness](WeatherPy/images/scatter_cloudiness.png)
 - ![Scatter Wind Speed](WeatherPy/images/scatter_wind_speed.png)
+- ![Scatter Northern Hemisphere Max Temp](WeatherPy/images/scatter_nh_max_temp.png)
+- ![Scatter Southern Hemisphere Max Temp](WeatherPy/images/scatter_sh_max_temp.png)
+- ![Scatter Northern Hemisphere Humidity](WeatherPy/images/scatter_nh_humidity.png)
+- ![Scatter Southern Hemisphere Humidity](WeatherPy/images/scatter_sh_humidity.png)
+- ![Scatter Northern Hemisphere Cloudiness](WeatherPy/images/scatter_nh_cloudiness.png)
+- ![Scatter Southern HemisphereCloudiness](WeatherPy/images/scatter_sh_cloudiness.png)
+- ![Scatter Northern Hemisphere Wind Speed](WeatherPy/images/scatter_nh_wind_speed.png)
+- ![Scatter Southern Hemisphere Wind Speed](WeatherPy/images/scatter_sh_wind_speed.png)
+- ![Humidity Heatmap](VacationPy/images/heatmap_world_humidity.png)
+- ![Humidity Heatmap with Hotels](VacationPy/images/heatmap_world_humidity_marker.png)
 
 ## Analysis
 
