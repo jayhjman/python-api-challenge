@@ -8,13 +8,15 @@
 
 - Weather Analysis
 
-  - [WeatherPy.ipynb](WeatherPy/WeatherPy.ipynb) - Jupyter Notebook for the analysis
+  - [WeatherPy.ipynb](WeatherPy/WeatherPy.ipynb) - Jupyter Notebook for the weather analysis
+
+  - [City Data](WeatherPy/output_data/cities.csv) - City data output file generate to be used by [VacationPy.ipynb](VacationPy/VacationPy.ipynb)
 
 - Vacation Spots
 
-  - [City Data](WeatherPy/output_data/cities.csv) - City data
+  - [City Data](WeatherPy/output_data/cities.csv) - City data wich was generated from [WeatherPy.ipynb](WeatherPy/WeatherPy.ipynb)
 
-  - [VacationPy.ipynb](VacationPy/VacationPy.ipynb) - Jupyter Notebook for the Vacation maps
+  - [VacationPy.ipynb](VacationPy/VacationPy.ipynb) - Jupyter Notebook for the Vacation Spots
 
 ## Results
 
