@@ -34,19 +34,19 @@
 
   ![Scatter Wind Speed](WeatherPy/images/scatter_wind_speed.png)
 
-- X
+- Northern Hemisphere City Max Temp with Linear Regression
 
   ![Scatter Northern Hemisphere Max Temp](WeatherPy/images/scatter_nh_max_temp.png)
 
-- X
+- Southern Hemisphere City Max Temp with Linear Regression
 
   ![Scatter Southern Hemisphere Max Temp](WeatherPy/images/scatter_sh_max_temp.png)
 
-- X
+- Northern Hemisphere City Humidity with Linear Regression
 
   ![Scatter Northern Hemisphere Humidity](WeatherPy/images/scatter_nh_humidity.png)
 
-- X
+- Southern Hemisphere City Humidity with Linear Regression
 
   ![Scatter Southern Hemisphere Humidity](WeatherPy/images/scatter_sh_humidity.png)
 
@@ -66,11 +66,11 @@
 
   ![Scatter Southern Hemisphere Wind Speed](WeatherPy/images/scatter_sh_wind_speed.png)
 
-- World City Humidity Heatmap with Hotel Marks for VacationPy
+- World City Humidity Heatmap
 
   ![Humidity Heatmap](VacationPy/images/heatmap_world_humidity.png)
 
-- World City Humidity Heatmap with Hotel Marks for VacationPy
+- World City Humidity Heatmap with Hotel Marks
 
   ![Humidity Heatmap with Hotels](VacationPy/images/heatmap_world_humidity_marker.png)
 
