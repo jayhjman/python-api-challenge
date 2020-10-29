@@ -18,19 +18,19 @@
 
 ## Results
 
-- X
+- World City Max Temps
 
   ![Scatter Max Temp](WeatherPy/images/scatter_max_temp.png)
 
-- X
+- World City Humidities
 
   ![Scatter Humidity](WeatherPy/images/scatter_humidity.png)
 
-- X
+- World City Cloudinesses
 
   ![Scatter Cloudiness](WeatherPy/images/scatter_cloudiness.png)
 
-- X
+- World City Wind Speeds
 
   ![Scatter Wind Speed](WeatherPy/images/scatter_wind_speed.png)
 
