@@ -2,19 +2,19 @@
 
 - **_Weather Analysis_** - [WeatherPy.ipynb](WeatherPy/WeatherPy.ipynb)
 
-- **_Vacation Spots_** - [VacationPy.ipynb](VacationPy/Vacation.ipynb)
+- **_Vacation Spots_** - [VacationPy.ipynb](VacationPy/VacationPy.ipynb)
 
 ## Files
 
 - Weather Analysis
 
-  - [Weather Analysis](WeatherPy/WeatherPy.ipynb) - Jupyter Notebook for the analysis
+  - [WeatherPy.ipynb](WeatherPy/WeatherPy.ipynb) - Jupyter Notebook for the analysis
 
 - Vacation Spots
 
   - [City Data](WeatherPy/output_data/cities.csv) - City data
 
-  - [Vacation Spot](VacationPy/Vacation.ipynb) - Jupyter Notebook for the Vacation maps
+  - [VacationPy.ipynb](VacationPy/VacationPy.ipynb) - Jupyter Notebook for the Vacation maps
 
 ## Results
 
