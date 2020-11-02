@@ -78,6 +78,14 @@
 
 ## Analysis
 
+1. Looking at the scatter plot for Max Temp in both northern and southern hemispheres you can clearly see that that the further you travel away from the equator the temperature drops (gets colder). This is pretty obvious since it the poles are frozen.
+
+1. I also see an interesting trend in humidity in the northern hemisphere, there is a cluster of higher humidities from 40 to 70 degrees north latitudes. I am assuming since we are starting a winter cycle on the northern hemisphere those cities are experiencing higher humididties.
+
+1. On the cloudiness scatter plots I see some striations at certain percentage levels (0 %, 20%, 40%, ...), it doesn't make sense so I would assume that maybe there is specific ways in which cities report on cloudiness. It would be nice to know the criteria a bit better. However on the regression graphs you can see for northern hemisphere it is a little more cloudy (probably because it is winter) and less clouds in southern hemisphere (summer season).
+
+1. On the wind speed scatters the concentration of cities are generally 15 mph and below, this seems logical since I doubt someone would want to live someplace very windy for long periods of time.
+
 ## Execution
 
 1. The assumption is that you have a working Python 3.6 environment and:
